@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito|Solway&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Solway', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Nunito', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+#two-lines {
+	width: 300px;
+}
+
+#title-centered {
+	text-align: center;
+	color: #73BFB8;
+}
